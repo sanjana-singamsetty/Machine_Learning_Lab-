@@ -6,3 +6,5 @@ This repository serves as a centralized hub to document and track my progress in
 [Link to Output of Lab 2](https://github.com/sanjana-singamsetty/Machine_Learning_Lab-/blob/main/Lab_2_AP21110010018.ipynb)
 </br>
 [Link to Output of Lab 3](https://github.com/sanjana-singamsetty/Machine_Learning_Lab-/blob/main/Lab_3_AP21110010018%20(1).ipynb)
+</br>
+[Link to Output of Lab 4](https://github.com/sanjana-singamsetty/Machine_Learning_Lab-/blob/main/Lab4_Machine_Learning%20(1).ipynb)
