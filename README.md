@@ -6,7 +6,7 @@ Welcome to the Machine Learning Lab, a comprehensive learning journey spanning f
 
 1. [Introduction](#introduction)
 2. [Topics Covered](#topics-covered)
-3. [Acknowledgments](#acknowledgments)
+
 
 ## Introduction
 
